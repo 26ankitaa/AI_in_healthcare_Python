@@ -1,4 +1,4 @@
 # AI_in_healthcare_Python
-Created a project using AI and ML in the healthcare sector. This project is made on the google colab platform.
+Created a project using AI and ML in the healthcare sector. This project is made on the google colab platform. And you can download the dataset which is provided.
 The link of the project is: https://colab.research.google.com/drive/1bTyR9lx9q36L0FG3n7y7WqbEWZ-UpvM8?usp=sharing
 
